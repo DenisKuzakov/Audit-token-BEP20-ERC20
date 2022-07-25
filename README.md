@@ -1,7 +1,7 @@
 <h1 align="center">Audit Tegro TGR (Binance Smart Chain)</h1>
 <h3 align="center">Audit Tegro TGR (Binance Smart Chain)</h3>
 
-- 📄 Project Token Tegro TGR [BEP20] [https://tegro.io](https://tegro.io)
+- 📄 Token Tegro TGR [https://tegro.io](https://tegro.io)
 
 - 📝 DEX on blockchain TON [https://tegro.finance](https://tegro.finance)
 
